@@ -10,7 +10,7 @@ const emojiPlugin = pxlsMarkdown.plugins.emoji
 
 window.addEventListener('load', function ()
 {
-    fetch('uhhhhhh', {
+    fetch('https://raw.githubusercontent.com/juralumin/swagmoji/main/emojis.json', {
     method: 'GET',
     headers: {
         'Accept': 'application/json',
