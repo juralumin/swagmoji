@@ -74,6 +74,7 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:tro:` | ![trolldogstare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/tro.png) |
 | `:trol:` | ![trolldogstare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/trol.png) |
 | `:trolldogstare:` | ![trolldogstare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/trolldogstare.png) |
+| `:tue:` | ![trolldogstare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/tue.png) |
 | `:unease:` | ![trolldogstare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/unease.png) |
 | `:waa:`        | ![waah](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/waa.gif) |
 | `:waah:`        | ![waah](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/waah.png) |
