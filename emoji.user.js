@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         swagmoji
-// @version      1.1
+// @version      1.2
 // @description  client-side emojis to ever so slightly better your pxls.space experience
-// @author       Nizrab and Jen
+// @author       nizrab & jen
 // @match        https://pxls.space/
 // @icon         https://pxls.space/favicon.ico
 // ==/UserScript==
@@ -17,7 +17,7 @@ window.addEventListener('load', function () {
     fetch('https://raw.githubusercontent.com/juralumin/swagmoji/main/emojis.json', {
         method: 'GET',
         headers: {
-            'Accept': 'application/json',
+            'accept': 'application/json',
         },
     })
     .then(response => response.json())  // log response to jason
@@ -26,7 +26,7 @@ window.addEventListener('load', function () {
         Object.assign(emojiDB, data);
 
         // log each emoji's name for 2% easier debugging ahhahhahahahhahahaha
-        console.log("Loaded emojis:");
+        console.log("loaded emojis:");
         Object.keys(emojiDB).forEach(key => {
             console.log(key);
         });
@@ -37,6 +37,9 @@ window.addEventListener('load', function () {
         });
     })
     .catch(error => {
-        console.error("Error fetching emoji data: ", error);  // log any undesired happenings
+        console.error("error fetching emoji data!", error);  // log any undesired happenings
     });
 });
+
+// if emojis are all funky, clear your cache.
+// also DON'T add emojis with UPPERCASE characters. they should all be lowercase
