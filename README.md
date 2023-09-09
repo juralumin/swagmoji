@@ -38,9 +38,9 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:durnal:` | ![diediediediedie](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/durnal.png) |
 | `:eminem:` | ![diediediediedie](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/eminem.png) |
 | `:friend:`      | ![friend](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/friend.png) |
-| `:frontsocc:`      | ![friend](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/frontsocc.png) |
-| `:guraworry:`      | ![friend](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/guraworry.png) |
-| `:happybday:`      | ![friend](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/happybday.png) |
+| `:frontsocc:`      | ![frontsocc](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/frontsocc.png) |
+| `:guraworry:`      | ![guraworry](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/guraworry.png) |
+| `:happybday:`      | ![happybday](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/happybday.png) |
 | `:hehehhehehe:` | ![hehehhehehe](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/hehehhehehe.png) |
 | `:jenfear:`     | ![jenfear](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenFear.png) |
 | `:jenpeace:`    | ![jenpeace](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenPeace.png) |
