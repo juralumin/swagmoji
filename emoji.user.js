@@ -16,7 +16,7 @@ window.addEventListener('load', function ()
         'Accept': 'application/json',
     },
 })
-   .then(response => Object.assign(emojiDB, emojis));
+   .then(response => Object.assign(emojiDB, response.json()));
 
     App.chat.markdownProcessor.use(emojiPlugin, {
         emojiDB
