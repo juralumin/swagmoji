@@ -33,6 +33,7 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:basil:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/basil.png) |
 | `:bingus:`   | ![bingus](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/bingus.png) |
 | `:bro:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/bro.png) |
+| `:boykisser:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/boykisser.png) |
 | `:catscientist:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catscientist.png) |
 | `:cirshrug:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirshrug.png) |
 | `:cirthink:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirthink.png) |
