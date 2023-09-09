@@ -23,6 +23,7 @@ a set of significantly more interesting emojis for pxls.space.
 
 
 ## THE EMOJIS THEMSELVES
+haha whaaaat??? no we aren't biased why do you ask??????
 | Emoji Name      | Emoji Image     |
 | --------------- | --------------- |
 | `:augustino:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/augustino.png) |
