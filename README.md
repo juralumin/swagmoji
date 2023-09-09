@@ -40,15 +40,15 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:michaelwave:` | ![michaelwave](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/michaelwave.gif) |
 | `:monday:`      | ![monday](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/monday.png) |
 | `:noobjared:`   | ![noobjared](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/NoobJared.gif) |
-| `:nizrab:`   | ![nizrab](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/Nizrab.png) |
+| `:nizrab:`      | ![nizrab](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/Nizrab.png) |
 | `:nyame:`       | ![nyame](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/nyame.png) |
 | `:ohdear:`      | ![ohdear](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ohdear.png) |
 | `:point:`       | ![point](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/POINT.png) |
 | `:premp:`       | ![premp](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/Premp.png) |
 | `:slommy:`      | ![slommy](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/Slommy.png) |
 | `:stevenjr:`    | ![stevenjr](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/stevenjr.png) |
-| `:subastare:`   | ![subastare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/subastare.png) |
 | `:trevor:`      | ![trevor](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/Trevor.png) |
 | `:trolldogstare:` | ![trolldogstare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/trolldogstare.png) |
 | `:waah:`        | ![waah](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/waah.png) |
 | `:woa:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/woa.png)  |
+| `:yotsusba:`   | ![subastare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/subastare.png) |
