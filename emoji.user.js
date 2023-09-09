@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         swagmoji
-// @version      1.2
+// @version      1.3
 // @description  client-side emojis to ever so slightly better your pxls.space experience
 // @author       nizrab & jen
+// @updateURL    https://github.com/juralumin/swagmoji/raw/main/emoji.user.js
+// @downloadURL  https://github.com/juralumin/swagmoji/raw/main/emoji.user.js
 // @match        https://pxls.space/
 // @icon         https://pxls.space/favicon.ico
 // ==/UserScript==
