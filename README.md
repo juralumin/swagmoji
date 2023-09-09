@@ -17,7 +17,7 @@ a set of significantly more interesting emojis for pxls.space.
 ## OTHER STUFF
 
 - people that don't have swagmoji active won't see your custom emojis.
-- you can submit emoji by sending @jensyndrome or @nizrab a message on discord.
+- you can submit emoji by sending @jensyndrome or @nizrab a message on discord. or make a pull request yourslef if you know how.
 - mr nizrab made the script. say thanks or else
 
 
