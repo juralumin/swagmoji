@@ -39,7 +39,8 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:jenwhat:`     | ![jenwhat](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenWhat.png) |
 | `:michaelwave:` | ![michaelwave](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/michaelwave.gif) |
 | `:monday:`      | ![monday](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/monday.png) |
-| `:noobjared:`   | ![noobjared](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/NoobJared.gif) |
+| `:noobjared:`   | ![noobjared](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/Nizrab.png) |
+| `:nizrab:`   | ![noobjared](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/NoobJared.gif) |
 | `:nyame:`       | ![nyame](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/nyame.png) |
 | `:ohdear:`      | ![ohdear](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ohdear.png) |
 | `:point:`       | ![point](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/POINT.png) |
