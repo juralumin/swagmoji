@@ -27,7 +27,7 @@ window.addEventListener('load', function () {
         console.log("fetched data:", data);  // log fetched data
 
         // complete the emoji urls
-        data = JSON.parse(JSON.stringify(data).replace(': "', 'https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/'))
+        data = JSON.parse(JSON.stringify(data).replaceAll(':"', ':"https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/'))
 
         console.log("Completed emoji urls:", data)  // log new data
 
