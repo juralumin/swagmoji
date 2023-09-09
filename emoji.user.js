@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         swag emojis
+// @name         swagmoji
 // @version      1.0
-// @description  A client side UserScript that Adds some swag emojis to pxls.space chat.
+// @description  client-side emojis to ever so slightly better your pxls.space experience
 // @author       Nizrab
 // @match        https://pxls.space/
 // @icon         https://pxls.space/favicon.ico
