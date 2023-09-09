@@ -26,10 +26,12 @@ a set of significantly more interesting emojis for pxls.space.
 haha whaaaat??? no we aren't biased why do you ask??????
 | name      | emoji     |
 | --------------- | --------------- |
+| `:a_gone:`   | ![a_gone](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/a_gone.gif) |
 | `:animboogie:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/animboogie.gif) |
 | `:augustino:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/augustino.png) |
 | `:awesomedog:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/awesomedog.png) |
 | `:basil:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/basil.png) |
+| `:bingus:`   | ![bingus](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/bingus.png) |
 | `:bro:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/bro.png) |
 | `:catscientist:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catscientist.png) |
 | `:cirshrug:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirshrug.png) |
