@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         swagmoji
-// @version      1.4
+// @version      1.5
 // @description  client-side emojis to ever so slightly better your pxls.space experience
 // @author       nizrab & jen
+// @updateURL    https://github.com/juralumin/swagmoji/raw/main/emoji.user.js
+// @downloadURL  https://github.com/juralumin/swagmoji/raw/main/emoji.user.js
 // @match        https://pxls.space/
 // @icon         https://pxls.space/favicon.ico
 // ==/UserScript==
@@ -27,6 +29,12 @@ window.addEventListener('load', function () {
     .then(response => response.json())  // log response to json
     .then(data => {
         console.log("fetched data:", data);  // log fetched data
+
+        // complete the emoji urls
+        data = JSON.parse(JSON.stringify(data).replaceAll(':"', ':"https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/'))
+
+        console.log("completed emoji urls:", data)  // log new data
+
         Object.assign(emojiDB, data);
 
         // log each emoji's name for easier debugging
@@ -35,15 +43,16 @@ window.addEventListener('load', function () {
             console.log(key);
         });
 
-        // use updated emoji db
+        // use updated emojiDB
         App.chat.markdownProcessor.use(emojiPlugin, {
             emojiDB
         });
     })
     .catch(error => {
+        App.alert("error fetching custom emoji data. Try reloading Pxls. -swagemoji")
         console.error("error fetching emoji data!", error);  // log any undesired happenings
     });
 });
 
 // if emojis are all funky, clear your cache.
-// also DON'T add emojis with uppercase characters. they should all be lowercase
+// also DON'T add emojis with UPPERCASE characters. they should all be lowercase (weird pxls thing)
