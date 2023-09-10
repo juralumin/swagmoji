@@ -11,6 +11,7 @@ a set of significantly more interesting emojis for pxls.space.
 - then [click here](https://github.com/juralumin/swagmoji/raw/main/emoji.user.js)
 - refresh your pxls tabs
 - enjoy your nicer emojis
+- if swagmoji suddenly stops working on refresh, [reinstall the userscript](https://github.com/juralumin/swagmoji/raw/main/emoji.user.js)
 
 
 
@@ -50,10 +51,12 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:figy:`      | ![figy](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/figy.png) |
 | `:friend:`      | ![friend](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/friend.png) |
 | `:frontsocc:`      | ![frontsocc](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/frontsocc.png) |
+| `:gerbo:`      | ![gerbo](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/gerbo.png) |
 | `:goode:`      | ![goode](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/goode.png) |
 | `:goodjob:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/goodjob.png) |
 | `:griddy:`      | ![griddy](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/griddy.png) |
 | `:guraworry:`      | ![guraworry](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/guraworry.png) |
+| `:gunga:`        | ![gunga](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/gunga.png) |
 | `:happybday:`      | ![happybday](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/happybday.png) |
 | `:hehehhehehe:` | ![hehehhehehe](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/hehehhehehe.png) |
 | `:iguess:` | ![iguess](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/iguess.png) |
@@ -104,7 +107,6 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:waah:`        | ![waah](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/waah.png) |
 | `:welldonenyami:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/welldonenyami.png) |
 | `:welldonevixen:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/welldonevixen.png) |
-| `:whatisthisfellasaying:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatisthisfellasaying.png) |
 | `:whereami:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whereami.png) |
 | `:woa:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/woa.png)  |
 | `:wwwwhat:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wwwwhat.png)  |
