@@ -55,6 +55,7 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:goodjob:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/goodjob.png) |
 | `:griddy:`      | ![griddy](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/griddy.png) |
 | `:guraworry:`      | ![guraworry](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/guraworry.png) |
+| `:gunga:`        | ![gunga](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/gunga.png) |
 | `:happybday:`      | ![happybday](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/happybday.png) |
 | `:hehehhehehe:` | ![hehehhehehe](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/hehehhehehe.png) |
 | `:iguess:` | ![iguess](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/iguess.png) |
@@ -105,7 +106,6 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:waah:`        | ![waah](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/waah.png) |
 | `:welldonenyami:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/welldonenyami.png) |
 | `:welldonevixen:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/welldonevixen.png) |
-| `:whatisthisfellasaying:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatisthisfellasaying.png) |
 | `:whereami:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whereami.png) |
 | `:woa:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/woa.png)  |
 | `:wwwwhat:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wwwwhat.png)  |
