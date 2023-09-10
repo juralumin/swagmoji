@@ -27,7 +27,9 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | name      | emoji     |
 | --------------- | --------------- |
 | `:a_gone:`   | ![a_gone](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/a_gone.gif) |
+| `:aheehee:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/aheehee.png) |
 | `:animboogie:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/animboogie.gif) |
+| `:areyousure:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/areyousure.png) |
 | `:augustino:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/augustino.png) |
 | `:awesomedog:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/awesomedog.png) |
 | `:basil:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/basil.png) |
@@ -49,6 +51,7 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:friend:`      | ![friend](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/friend.png) |
 | `:frontsocc:`      | ![frontsocc](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/frontsocc.png) |
 | `:goode:`      | ![goode](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/goode.png) |
+| `:goodjob:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/goodjob.png) |
 | `:griddy:`      | ![griddy](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/griddy.png) |
 | `:guraworry:`      | ![guraworry](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/guraworry.png) |
 | `:happybday:`      | ![happybday](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/happybday.png) |
@@ -73,6 +76,7 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:ohdear:`      | ![ohdear](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ohdear.png) |
 | `:ohno:`      | ![ohdear](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ohno.png) |
 | `:ohyes:`      | ![ohdear](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ohyes.png) |
+| `:osakatrue:`      | ![osakatrue](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/osakatrue.png) |
 | `:perhaps:`       | ![point](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/perhaps.png) |
 | `:point:`       | ![point](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/POINT.png) |
 | `:postthisrena:`       | ![premp](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/postthisrena.png) |
@@ -97,6 +101,8 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:waa:`        | ![waah](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/waa.gif) |
 | `:waah:`        | ![waah](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/waah.png) |
 | `:welldonenyami:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/welldonenyami.png) |
+| `:welldonevixen:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/welldonevixen.png) |
+| `:whatisthisfellasaying:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatisthisfellasaying.png) |
 | `:whereami:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whereami.png) |
 | `:woa:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/woa.png)  |
 | `:xtodoubt:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/xtodoubt.png)  |
