@@ -34,9 +34,13 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:bingus:`   | ![bingus](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/bingus.png) |
 | `:bro:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/bro.png) |
 | `:boykisser:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/boykisser.png) |
+| `:catpog:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catpog.png) |
+| `:catquake:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catquake.png) |
 | `:catscientist:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catscientist.png) |
+| `:catstare:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catstare.png) |
 | `:cirshrug:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirshrug.png) |
 | `:cirthink:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirthink.png) |
+| `:colonthreee:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/colonthreee.png) |
 | `:diediediediedie:` | ![diediediediedie](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/DIEDIEDIEDIEDIE.png) |
 | `:durnal:` | ![diediediediedie](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/durnal.png) |
 | `:eminem:` | ![diediediediedie](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/eminem.png) |
@@ -70,6 +74,7 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:ohyes:`      | ![ohdear](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ohyes.png) |
 | `:perhaps:`       | ![point](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/perhaps.png) |
 | `:point:`       | ![point](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/POINT.png) |
+| `:postthisrena:`       | ![premp](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/postthisrena.png) |
 | `:premp:`       | ![premp](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/Premp.png) |
 | `:realshit:`       | ![premp](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/realshit.png) |
 | `:salmonofcapistrano:`      | ![slommy](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/salmonofcapistrano.png) |
