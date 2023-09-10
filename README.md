@@ -91,6 +91,7 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:swearwords:`      | ![trevor](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/swearwords.png) |
 | `:swearwordstwo:`      | ![trevor](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/swearwordstwo.png) |
 | `:tired:`      | ![trevor](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/tired.png) |
+| `:touchdabeef:` | ![touchdabeef](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/touchdabeef.png) |
 | `:trevor:`      | ![trevor](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/Trevor.png) |
 | `:tro:` | ![trolldogstare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/tro.png) |
 | `:trol:` | ![trolldogstare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/trol.png) |
