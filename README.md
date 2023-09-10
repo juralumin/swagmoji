@@ -11,6 +11,7 @@ a set of significantly more interesting emojis for pxls.space.
 - then [click here](https://github.com/juralumin/swagmoji/raw/main/emoji.user.js)
 - refresh your pxls tabs
 - enjoy your nicer emojis
+- if swagmoji suddenly stops working on refresh, [reinstall the userscript](https://github.com/juralumin/swagmoji/raw/main/emoji.user.js)
 
 
 
