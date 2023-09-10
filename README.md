@@ -51,6 +51,7 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:figy:`      | ![figy](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/figy.png) |
 | `:friend:`      | ![friend](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/friend.png) |
 | `:frontsocc:`      | ![frontsocc](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/frontsocc.png) |
+| `:gerbo:`      | ![gerbo](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/gerbo.png) |
 | `:goode:`      | ![goode](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/goode.png) |
 | `:goodjob:`   | ![augustino](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/goodjob.png) |
 | `:griddy:`      | ![griddy](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/griddy.png) |
