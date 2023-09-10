@@ -110,5 +110,6 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:wwwwhat:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wwwwhat.png)  |
 | `:xtodoubt:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/xtodoubt.png)  |
 | `:yesgd:`   | ![subastare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/yesgd.png) |
+| `:yippee:`   | ![subastare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/yippee.gif) |
 | `:yotsusba:`   | ![subastare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/subastare.png) |
 | `:youareanidiot:` | ![youareanidiot](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/idiot.gif) |
