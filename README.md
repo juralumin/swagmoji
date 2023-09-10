@@ -63,6 +63,7 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:jenteehee:`   | ![jenteehee](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenTeehee.png) |
 | `:jenthink:`    | ![jenthink](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenThink.png) |
 | `:jenwhat:`     | ![jenwhat](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenWhat.png) |
+| `:marisad:` | ![marisad](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/marisad.png) |
 | `:michaelwave:` | ![michaelwave](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/michaelwave.gif) |
 | `:mobygura:` | ![mobygura](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mobygura.png) |
 | `:monday:`      | ![monday](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/monday.png) |
@@ -106,6 +107,7 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:whatisthisfellasaying:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatisthisfellasaying.png) |
 | `:whereami:`        | ![welldonenyami](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whereami.png) |
 | `:woa:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/woa.png)  |
+| `:wwwwhat:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wwwwhat.png)  |
 | `:xtodoubt:`         | ![woa](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/xtodoubt.png)  |
 | `:yesgd:`   | ![subastare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/yesgd.png) |
 | `:yotsusba:`   | ![subastare](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/subastare.png) |
