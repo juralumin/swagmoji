@@ -23,8 +23,7 @@ a set of significantly more interesting emojis for pxls.space.
 
 
 
-## THE EMOJIS THEMSELVES [282, I THINK]
-new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismocat: :brandont: :brbrdeng: :comforble: :cringe: :cryptoluigi: :daksu: :deng: :derrick: :douchebag: :dripdog: :eddy: :emojimovie: :emojinotfound: :favouritenumber: :fear: :feelsbanman: :feelsconflictedman: :feelssuitman: :fingore: :freak: :fungus: :getaloadofthisguy: :gone: :hashbrown: :hehehehehe: :hellothere: :heybrothatsprettyfunny: :hot_dawg: :jentired: :jenugh: :jiglypuf: :johnface: :jums: :jumsirl: :junpez: :linus: :lolhoo: :mariorun: :mariostyle: :mark: :mark2: :miopalm: :morganadessert: :mrdoggy: :mungus: :mysuperhero: :nala: :neoturf: :nineteen: :normalkirby: :oh: :ohgod: :ohgodno: :okisee: :olivergordon: :p: :peter: :pikaegg: :pikame: :pitbull: :pou: :quarantine: :reviewtechusa: :robloxmanthatstaresdownatyoumenacingly: :sadness: :scripulous: :simon: :spunsklobs: :stunninghorse: :sup: :swagkasim: :talkingabout: :terminalseven: :thecat: :theworm: :thisisnotmeth: :tree: :twamle: :twennywan: :twentyone: :uuhhh: :wasp: :whatjusthappened: :whatsapp: :whatthefuckdude: :worsthorseever: :wwwwwwwwww: :yikes: :youarefunny:
+## THE EMOJIS THEMSELVES [285, I THINK]
 | name      | emoji     |
 | --------------- | --------------- |
 | `:a_gone:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/a_gone.gif) |
@@ -40,7 +39,6 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:areyousure:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/areyousure.png) |
 | `:augustino:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/augustino.png) |
 | `:autism:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/autism.png) |
-| `:autismocat:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/autismocat.gif) |
 | `:auueugghh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/auueugghh.png) |
 | `:awesomedog:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/awesomedog.png) |
 | `:ayowhat:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ayowhat.png) |
@@ -57,7 +55,6 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:brother:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/brother.png) |
 | `:bruhbruhbruh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/bruhbruhbruh.png) |
 | `:canyourepeatthatformeplease:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/canyourepeatthatformeplease.png) |
-| `:cat:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cat.gif) |
 | `:catpog:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catpog.png) |
 | `:catquake:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catquake.png) |
 | `:catscientist:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catscientist.png) |
@@ -126,6 +123,7 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:hehehhehehe:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/hehehhehehe.png) |
 | `:hellothere:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/hellothere.png) |
 | `:heybrothatsprettyfunny:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/heybrothatsprettyfunny.png) |
+| `:heythere:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/heythere.png) |
 | `:hooray:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/hooray.png) |
 | `:hot_dawg:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/hot_dawg.png) |
 | `:hrmmmm:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/hrmmmm.png) |
@@ -181,6 +179,7 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:moxbruh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/moxbruh.png) |
 | `:mrdoggy:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mrdoggy.png) |
 | `:mungus:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mungus.png) |
+| `:mysuperhero:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/superhero.gif) |
 | `:nala:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/nala.png) |
 | `:nefariousactivity:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/nefariousactivity.png) |
 | `:neoturf:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/neoturf.png) |
@@ -248,7 +247,6 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:stonemansad:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/stonemansad.png) |
 | `:stunninghorse:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/stunninghorse.png) |
 | `:sup:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/sup.png) |
-| `:superhero:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/superhero.gif) |
 | `:swagkasim:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/swagkasim.png) |
 | `:swaglife:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/swaglife.png) |
 | `:swearwords:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/swearwords.png) |
@@ -256,6 +254,8 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:t:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/t.gif) |
 | `:talkingabout:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/talkingabout.gif) |
 | `:terminalseven:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/terminalseven.png) |
+| `:thecat:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cat.gif) |
+| `:thestare:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/thestare.gif) |
 | `:theworm:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/theworm.png) |
 | `:thinksmart:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/thinksmart.png) |
 | `:thisisnotmeth:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/thisisnotmeth.gif) |
@@ -294,7 +294,7 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:whaahh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whaahh.png) |
 | `:whatjusthappened:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatjusthappened.png) |
 | `:whatsapp:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatsapp.png) |
-| `:whatthefuckdude:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatthefuck.png) |
+| `:whatthefuck:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatthefuck.png) |
 | `:whereami:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whereami.png) |
 | `:woa:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/woa.png) |
 | `:woaaah:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/woaaah.png) |
@@ -310,5 +310,6 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:youareanidiot:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/idiot.gif) |
 | `:youarefunny:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/youarefunny.png) |
 | `:ytpmvelf:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ytpmvelf.gif) |
+
 
 haha whaaaat??? no we aren't biased why do you ask??????
