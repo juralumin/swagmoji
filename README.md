@@ -71,6 +71,7 @@ new emojis - :oldpeople: :t: :unknown500:
 | `:mobygura:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mobygura.png) |
 | `:monday:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/monday.png) |
 | `:nizrab:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/Nizrab.png) |
+| `:nofunallowed:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/nofunallowed.png) |
 | `:nogd:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/nogd.png) |
 | `:noobjared:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/NoobJared.gif) |
 | `:nyame:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/nyame.png) |
