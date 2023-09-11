@@ -24,7 +24,7 @@ a set of significantly more interesting emojis for pxls.space.
 
 
 ## THE EMOJIS THEMSELVES [90]
-haha whaaaat??? no we aren't biased why do you ask??????
+new emojis - :oldpeople: :t: :unknown500:
 | name      | emoji     |
 | --------------- | --------------- |
 | `:a_gone:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/a_gone.gif) |
@@ -118,3 +118,4 @@ haha whaaaat??? no we aren't biased why do you ask??????
 | `:yippee:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/yippee.gif) |
 | `:yotsusba:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/subastare.png) |
 | `:youareanidiot:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/idiot.gif) |
+haha whaaaat??? no we aren't biased why do you ask??????
