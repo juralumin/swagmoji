@@ -27,7 +27,6 @@ a set of significantly more interesting emojis for pxls.space.
 new emojis - :ackshually: :angeryfellow: :autism: :auueugghh: :ayowhat: :betrayal: :beware: :blabbering: :bot: :brother: :bruhbruhbruh: :canyourepeatthatformeplease: :chatting: :cj: :copium: :drinkup: :ermmm: :excuseme: :existing: :fightme: :forgor: :gays: :goodadvice: :gotcha: :graah: :grableft: :grabright: :gunpoint: :gunright: :hamser: :harold: :heheheha: :hehehehahaha: :hooray: :hrmmmm: :hrmmmmyes: :huhskull: :hurrmmm: :huuuh: :i: :iamfine: :idontunderstand: :ienjoy: :igiveup: :imdead: :incredible: :ipadconfiscated: :jermasus: :joecool: :joint: :listening: :lookingdown: :maliciouswhiteboy: :manface: :mcdonalds: :mowjudgement: :mowmode: :mowstare: :nefariousactivity: :nerddd: :noice: :ohgoodnessno: :ohmygodwhy: :pffffft: :pouting: :realdesperate: :realmad: :realsob: :reversecard: :robloxed: :sadger: :sauling: :shrugge: :shruh: :sideeye: :socialcredit: :stonemansad: :swaglife: :thinksmart: :tiktokindia: :troaled: :tryme: :typing: :uhm: :ultrahd: :uncanny: :usure: :uuhhhhh: :verybadandbaldmanstare: :wait: :walltalk: :whaahh: :whatthefuck: :woaaah: :wowwiieee:
 | name      | emoji     |
 | --------------- | --------------- |
-| `:Test:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/woa.png) |
 | `:a_gone:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/a_gone.gif) |
 | `:ackshually:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ackshually.png) |
 | `:aheehee:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/aheehee.png) |
@@ -163,7 +162,6 @@ new emojis - :ackshually: :angeryfellow: :autism: :auueugghh: :ayowhat: :betraya
 | `:salmonofcapistrano:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/salmonofcapistrano.png) |
 | `:salutezume:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/salutezume.png) |
 | `:sauling:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/sauling.png) |
-| `:secretemoji:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/secret.png) |
 | `:shrugge:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/shrugge.png) |
 | `:shruh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/shruh.png) |
 | `:sideeye:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/sideeye.png) |
