@@ -24,7 +24,7 @@ a set of significantly more interesting emojis for pxls.space.
 
 
 ## THE EMOJIS THEMSELVES [282, I THINK]
-new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismocat: :brandont: :brbrdeng: :cat: :chongface: :comforble: :cringe: :cryptoluigi: :daksu: :deng: :derrick: :douchebag: :dripdog: :eddy: :emojimovie: :emojinotfound: :favouritenumber: :fear: :feelsbanman: :feelsconflictedman: :feelssuitman: :fingore: :freak: :fungus: :getaloadofthisguy: :gone: :hashbrown: :hehehehehe: :hellothere: :heybrothatsprettyfunny: :hot_dawg: :jentired: :jenugh: :jiglypuf: :jums: :jumsirl: :junpez: :linus: :lolhoo: :mariorun: :mariostyle: :mark: :mark2: :miopalm: :morganadessert: :mrdoggy: :mungus: :nala: :neoturf: :nineteen: :normalkirby: :oh: :ohgod: :ohgodno: :okisee: :olivergordon: :p: :peter: :pikaegg: :pikame: :pitbull: :pou: :quarantine: :reviewtechusa: :robloxmanthatstaresdownatyoumenacingly: :sadness: :scripulous: :simon: :spunsklobs: :stunninghorse: :sup: :superhero: :swagkasim: :talkingabout: :terminalseven: :theworm: :thisisnotmeth: :tree: :twat: :twennywan: :twentyone: :uuhhh: :wasp: :whatjusthappened: :whatsapp: :whatthefuck: :worsthorseever: :wwwwwwwwww: :yikes: :youarefunny:
+new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismocat: :brandont: :brbrdeng: :comforble: :cringe: :cryptoluigi: :daksu: :deng: :derrick: :douchebag: :dripdog: :eddy: :emojimovie: :emojinotfound: :favouritenumber: :fear: :feelsbanman: :feelsconflictedman: :feelssuitman: :fingore: :freak: :fungus: :getaloadofthisguy: :gone: :hashbrown: :hehehehehe: :hellothere: :heybrothatsprettyfunny: :hot_dawg: :jentired: :jenugh: :jiglypuf: :johnface: :jums: :jumsirl: :junpez: :linus: :lolhoo: :mariorun: :mariostyle: :mark: :mark2: :miopalm: :morganadessert: :mrdoggy: :mungus: :mysuperhero: :nala: :neoturf: :nineteen: :normalkirby: :oh: :ohgod: :ohgodno: :okisee: :olivergordon: :p: :peter: :pikaegg: :pikame: :pitbull: :pou: :quarantine: :reviewtechusa: :robloxmanthatstaresdownatyoumenacingly: :sadness: :scripulous: :simon: :spunsklobs: :stunninghorse: :sup: :swagkasim: :talkingabout: :terminalseven: :thecat: :theworm: :thisisnotmeth: :tree: :twamle: :twennywan: :twentyone: :uuhhh: :wasp: :whatjusthappened: :whatsapp: :whatthefuckdude: :worsthorseever: :wwwwwwwwww: :yikes: :youarefunny:
 | name      | emoji     |
 | --------------- | --------------- |
 | `:a_gone:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/a_gone.gif) |
@@ -63,7 +63,7 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:catscientist:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catscientist.png) |
 | `:catstare:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catstare.png) |
 | `:chatting:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/chatting.gif) |
-| `:chongface:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/chongface.png) |
+| `:johnface:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/chongface.png) |
 | `:cirshrug:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirshrug.png) |
 | `:cirthink:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirthink.png) |
 | `:cj:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cj.png) |
@@ -294,7 +294,7 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:whaahh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whaahh.png) |
 | `:whatjusthappened:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatjusthappened.png) |
 | `:whatsapp:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatsapp.png) |
-| `:whatthefuck:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatthefuck.png) |
+| `:whatthefuckdude:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whatthefuck.png) |
 | `:whereami:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whereami.png) |
 | `:woa:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/woa.png) |
 | `:woaaah:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/woaaah.png) |
