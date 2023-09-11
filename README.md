@@ -23,8 +23,8 @@ a set of significantly more interesting emojis for pxls.space.
 
 
 
-## THE EMOJIS THEMSELVES [186]
-new emojis - :ackshually: :angeryfellow: :autism: :auueugghh: :ayowhat: :betrayal: :beware: :blabbering: :bot: :brother: :bruhbruhbruh: :canyourepeatthatformeplease: :chatting: :cj: :copium: :drinkup: :ermmm: :excuseme: :existing: :fightme: :forgor: :gays: :goodadvice: :gotcha: :graah: :grableft: :grabright: :gunpoint: :gunright: :hamser: :harold: :heheheha: :hehehehahaha: :hooray: :hrmmmm: :hrmmmmyes: :huhskull: :hurrmmm: :huuuh: :i: :iamfine: :idontunderstand: :ienjoy: :igiveup: :imdead: :incredible: :ipadconfiscated: :jermasus: :joecool: :joint: :listening: :lookingdown: :maliciouswhiteboy: :manface: :mcdonalds: :mowjudgement: :mowmode: :mowstare: :nefariousactivity: :nerddd: :noice: :ohgoodnessno: :ohmygodwhy: :pffffft: :pouting: :realdesperate: :realmad: :realsob: :reversecard: :robloxed: :sadger: :sauling: :shrugge: :shruh: :sideeye: :socialcredit: :stonemansad: :swaglife: :thinksmart: :tiktokindia: :troaled: :tryme: :typing: :uhm: :ultrahd: :uncanny: :usure: :uuhhhhh: :verybadandbaldmanstare: :wait: :walltalk: :whaahh: :whatthefuck: :woaaah: :wowwiieee:
+## THE EMOJIS THEMSELVES [282, I THINK]
+new emojis - :oldpeople: :t: :unknown500:
 | name      | emoji     |
 | --------------- | --------------- |
 | `:a_gone:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/a_gone.gif) |
@@ -112,6 +112,8 @@ new emojis - :ackshually: :angeryfellow: :autism: :auueugghh: :ayowhat: :betraya
 | `:jenscowl:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenScowl.png) |
 | `:jenteehee:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenTeehee.png) |
 | `:jenthink:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenThink.png) |
+| `:jentired:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jentired.png) |
+| `:jenugh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenugh.png) |
 | `:jenwhat:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenWhat.png) |
 | `:jermasus:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jermasus.png) |
 | `:joecool:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joecool.png) |
@@ -216,5 +218,7 @@ new emojis - :ackshually: :angeryfellow: :autism: :auueugghh: :ayowhat: :betraya
 | `:yotsusba:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/subastare.png) |
 | `:youareanidiot:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/idiot.gif) |
 | `:ytpmvelf:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ytpmvelf.gif) |
+
+
 
 haha whaaaat??? no we aren't biased why do you ask??????
