@@ -128,6 +128,7 @@ new emojis - :ackshually: :angeryfellow: :autism: :auueugghh: :ayowhat: :betraya
 | `:mowjudgement:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mowjudgement.png) |
 | `:mowmode:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mowmode.png) |
 | `:mowstare:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mowstare.png) |
+| `:moxbruh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/moxbruh.png) |
 | `:nefariousactivity:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/nefariousactivity.png) |
 | `:nerddd:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/nerddd.png) |
 | `:nizrab:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/Nizrab.png) |
