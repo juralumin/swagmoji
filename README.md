@@ -154,6 +154,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:joecool:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joecool.png) |
 | `:johnface:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/johnface.png) |
 | `:joint:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joint.png) |
+| `:lainah:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/lainah.png) |
 | `:listening:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/listening.png) |
 | `:lolhoo:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/lolhoo.png) |
 | `:lookingdown:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/lookingdown.png) |
