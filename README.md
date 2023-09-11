@@ -24,7 +24,7 @@ a set of significantly more interesting emojis for pxls.space.
 
 
 ## THE EMOJIS THEMSELVES [186]
-new emojis - :ackshually: :angeryfellow: :autism: :auueugghh: :ayowhat: :betrayal: :beware: :blabbering: :bot: :brother: :bruhbruhbruh: :canyourepeatthatformeplease: :chatting: :cj: :copium: :drinkup: :ermmm: :excuseme: :existing: :fightme: :forgor: :gays: :goodadvice: :gotcha: :graah: :grableft: :grabright: :gunpoint: :gunright: :hamser: :harold: :heheheha: :hehehehahaha: :hooray: :hrmmmm: :hrmmmmyes: :huhskull: :hurrmmm: :huuuh: :i: :iamfine: :idontunderstand: :ienjoy: :igiveup: :imdead: :incredible: :ipadconfiscated: :jermasus: :joecool: :joint: :listening: :lookingdown: :maliciouswhiteboy: :manface: :mcdonalds: :mowjudgement: :mowmode: :mowstare: :nefariousactivity: :nerddd: :noice: :ohgoodnessno: :ohmygodwhy: :pffffft: :pout: :realdesperate: :realmad: :realsob: :reversecard: :robloxed: :sadger: :sauling: :shrugge: :shruh: :sideeye: :socialcredit: :stonemansad: :swaglife: :thinksmart: :tiktokindia: :troaled: :tryme: :typing: :uhm: :ultrahd: :uncanny: :usure: :uuhhhhh: :verybadandbaldmanstare: :wait: :walltalk: :whaahh: :whatthefuck: :woaaah: :wowwiieee:
+new emojis - :ackshually: :angeryfellow: :autism: :auueugghh: :ayowhat: :betrayal: :beware: :blabbering: :bot: :brother: :bruhbruhbruh: :canyourepeatthatformeplease: :chatting: :cj: :copium: :drinkup: :ermmm: :excuseme: :existing: :fightme: :forgor: :gays: :goodadvice: :gotcha: :graah: :grableft: :grabright: :gunpoint: :gunright: :hamser: :harold: :heheheha: :hehehehahaha: :hooray: :hrmmmm: :hrmmmmyes: :huhskull: :hurrmmm: :huuuh: :i: :iamfine: :idontunderstand: :ienjoy: :igiveup: :imdead: :incredible: :ipadconfiscated: :jermasus: :joecool: :joint: :listening: :lookingdown: :maliciouswhiteboy: :manface: :mcdonalds: :mowjudgement: :mowmode: :mowstare: :nefariousactivity: :nerddd: :noice: :ohgoodnessno: :ohmygodwhy: :pffffft: :pouting: :realdesperate: :realmad: :realsob: :reversecard: :robloxed: :sadger: :sauling: :shrugge: :shruh: :sideeye: :socialcredit: :stonemansad: :swaglife: :thinksmart: :tiktokindia: :troaled: :tryme: :typing: :uhm: :ultrahd: :uncanny: :usure: :uuhhhhh: :verybadandbaldmanstare: :wait: :walltalk: :whaahh: :whatthefuck: :woaaah: :wowwiieee:
 | name      | emoji     |
 | --------------- | --------------- |
 | `:Test:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/woa.png) |
@@ -151,7 +151,7 @@ new emojis - :ackshually: :angeryfellow: :autism: :auueugghh: :ayowhat: :betraya
 | `:pffffft:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/pffffft.png) |
 | `:point:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/POINT.png) |
 | `:postthisrena:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/postthisrena.png) |
-| `:pout:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/pout.png) |
+| `:pouting:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/pout.png) |
 | `:premp:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/Premp.png) |
 | `:realdesperate:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/realdesperate.png) |
 | `:realmad:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/realmad.png) |
