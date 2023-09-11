@@ -118,4 +118,5 @@ new emojis - :oldpeople: :t: :unknown500:
 | `:yippee:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/yippee.gif) |
 | `:yotsusba:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/subastare.png) |
 | `:youareanidiot:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/idiot.gif) |
+
 haha whaaaat??? no we aren't biased why do you ask??????
