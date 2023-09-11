@@ -116,6 +116,7 @@ new emojis - :ackshually: :angeryfellow: :autism: :auueugghh: :ayowhat: :betraya
 | `:jermasus:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jermasus.png) |
 | `:joecool:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joecool.png) |
 | `:joint:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joint.png) |
+| `:lainah:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/lainah.png) |
 | `:listening:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/listening.png) |
 | `:lookingdown:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/lookingdown.png) |
 | `:maliciouswhiteboy:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/maliciouswhiteboy.png) |
