@@ -63,7 +63,6 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:catscientist:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catscientist.png) |
 | `:catstare:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catstare.png) |
 | `:chatting:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/chatting.gif) |
-| `:johnface:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/chongface.png) |
 | `:cirshrug:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirshrug.png) |
 | `:cirthink:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirthink.png) |
 | `:cj:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cj.png) |
@@ -154,6 +153,7 @@ new emojis - :abuenoadiosmaster: :akko: :akkogun: :alan: :alsojumsirl: :autismoc
 | `:jermasus:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jermasus.png) |
 | `:jiglypuf:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jiglypuf.png) |
 | `:joecool:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joecool.png) |
+| `:johnface:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/johnface.png) |
 | `:joint:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joint.png) |
 | `:jums:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jums.png) |
 | `:jumsirl:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jumsirl.png) |
