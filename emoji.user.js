@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         swagmoji
-// @version      1.6
+// @version      1.6.9
 // @description  client-side emojis to ever so slightly better your pxls.space experience
 // @author       nizrab & jen
 // @updateURL    https://github.com/juralumin/swagmoji/raw/main/emoji.user.js
@@ -17,7 +17,7 @@ const swagemoji_ls = localStorage.getItem("swagemoji");
 // this will not work if swagemoji has not stored anything in the localStorage
 
 if (swagemoji_ls != null) {
-    emojiDB = JSON.parse(localStorage.getItem("swagemoji"));
+    Object.assign(emojiDB, JSON.parse(localStorage.getItem("swagemoji")));
 } else {
     console.log("could not find swagemoji in localStorage")
 };
