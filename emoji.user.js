@@ -17,7 +17,7 @@ const swagemoji_ls = localStorage.getItem("swagemoji");
 // this will not work if swagemoji has not stored anything in the localStorage
 
 if (swagemoji_ls != null) {
-    Object.assign(emojiDB, JSON.parse(localStorage.getItem("swagemoji")));
+    Object.assign(emojiDB, JSON.parse(swagemoji_ls));
 } else {
     console.log("could not find swagemoji in localStorage")
 };
