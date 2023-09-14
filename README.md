@@ -112,6 +112,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:grableft:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/grableft.png) |
 | `:grabright:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/grabright.png) |
 | `:griddy:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/griddy.png) |
+| `:guh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/guh.gif) |
 | `:gunga:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/gunga.png) |
 | `:gunpoint:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/gunpoint.png) |
 | `:gunright:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/gunright.png) |
