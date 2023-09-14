@@ -61,7 +61,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:catscientist:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catscientist.png) |
 | `:catstare:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/catstare.png) |
 | `:chatting:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/chatting.gif) |
-| `:cirdusted:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/a_cirDusted.png) |
+| `:cirdusted:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/a_cirDusted.gif) |
 | `:cirshrug:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirshrug.png) |
 | `:cirslain:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirSlain.png) |
 | `:cirthink:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/cirthink.png) |
