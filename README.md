@@ -241,6 +241,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:spunsklobs:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/spunsklobs.gif) |
 | `:stevenhuh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/stevenhuh.png) |
 | `:stevenjr:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/stevenjr.png) |
+| `:sturdy:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/sturdy.png) |
 | `:stfud:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/stfud.png) |
 | `:stonemansad:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/stonemansad.png) |
 | `:stunninghorse:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/stunninghorse.png) |
