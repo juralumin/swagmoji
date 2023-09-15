@@ -95,6 +95,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:fightme:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/fightme.png) |
 | `:figy:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/figy.png) |
 | `:fingore:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/fingore.png) |
+| `:for_the_empire:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/FOR_THE_EMPIRE.png) |
 | `:forgor:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/forgor.png) |
 | `:freak:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/freak.png) |
 | `:friend:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/friend.png) |
@@ -169,6 +170,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:mark:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mark.png) |
 | `:mark2:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mark2.png) |
 | `:mcdonalds:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mcdonalds.png) |
+| `:me:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/me.png) |
 | `:michaelwave:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/michaelwave.gif) |
 | `:miopalm:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/miopalm.png) |
 | `:mobygura:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mobygura.png) |
