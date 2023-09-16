@@ -146,6 +146,8 @@ a set of significantly more interesting emojis for pxls.space.
 | `:incredible:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/incredible.png) |
 | `:ipadconfiscated:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ipadconfiscated.png) |
 | `:jenfear:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenFear.png) |
+| `:jenokay:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenokay.png) |
+| `:jenpain:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenpain.png) |
 | `:jenpeace:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenPeace.png) |
 | `:jenscowl:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenScowl.png) |
 | `:jenteehee:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenTeehee.png) |
