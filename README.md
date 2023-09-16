@@ -156,6 +156,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:jermasus:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jermasus.png) |
 | `:jiglypuf:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jiglypuf.png) |
 | `:joecool:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joecool.png) |
+| `:joever:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joever.png) |
 | `:johnface:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/johnface.png) |
 | `:joint:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joint.png) |
 | `:lainah:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/lainah.png) |
@@ -174,6 +175,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:michaelwave:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/michaelwave.gif) |
 | `:miopalm:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/miopalm.png) |
 | `:mobygura:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mobygura.png) |
+| `:momiji:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/momiji.png) |
 | `:monday:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/monday.png) |
 | `:morganadessert:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/morganadessert.png) |
 | `:mowjudgement:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/mowjudgement.png) |
