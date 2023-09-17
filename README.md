@@ -146,10 +146,12 @@ a set of significantly more interesting emojis for pxls.space.
 | `:incredible:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/incredible.png) |
 | `:ipadconfiscated:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ipadconfiscated.png) |
 | `:jenfear:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenFear.png) |
+| `:jenflush:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenflush.png) |
 | `:jenokay:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenokay.png) |
 | `:jenpain:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenpain.png) |
 | `:jenpeace:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenPeace.png) |
 | `:jenscowl:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenScowl.png) |
+| `:jenstare:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenstare.png) |
 | `:jenteehee:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenTeehee.png) |
 | `:jenthink:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenThink.png) |
 | `:jentired:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jentired.png) |
