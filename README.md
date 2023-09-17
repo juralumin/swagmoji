@@ -297,6 +297,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:wait:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wait.png) |
 | `:walltalk:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/walltalk.gif) |
 | `:wasp:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wasp.png) |
+| `:welldoned:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/welldoned.png) |
 | `:welldonenyami:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/welldonenyami.png) |
 | `:welldonevixen:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/welldonevixen.png) |
 | `:whaahh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/whaahh.png) |
