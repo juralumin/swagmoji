@@ -112,6 +112,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:graah:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/graah.png) |
 | `:grableft:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/grableft.png) |
 | `:grabright:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/grabright.png) |
+| `:gregtherotator:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/twat.gif) |
 | `:griddy:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/griddy.png) |
 | `:guh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/guh.gif) |
 | `:gunga:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/gunga.png) |
@@ -160,7 +161,6 @@ a set of significantly more interesting emojis for pxls.space.
 | `:jermasus:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jermasus.png) |
 | `:jiglypuf:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jiglypuf.png) |
 | `:joecool:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joecool.png) |
-| `:joetherotator:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/twat.gif) |
 | `:joever:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joever.png) |
 | `:johnface:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/johnface.png) |
 | `:joint:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joint.png) |
