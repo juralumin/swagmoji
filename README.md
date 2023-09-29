@@ -160,6 +160,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:jermasus:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jermasus.png) |
 | `:jiglypuf:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jiglypuf.png) |
 | `:joecool:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joecool.png) |
+| `:joetherotator:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/twat.gif) |
 | `:joever:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joever.png) |
 | `:johnface:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/johnface.png) |
 | `:joint:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joint.png) |
@@ -280,7 +281,6 @@ a set of significantly more interesting emojis for pxls.space.
 | `:trolldogstare:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/trolldogstare.png) |
 | `:tryme:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/tryme.png) |
 | `:tue:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/tue.png) |
-| `:twat:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/twat.gif) |
 | `:twennywan:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/twennywan.png) |
 | `:twentyone:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/twentyone.png) |
 | `:typing:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/typing.png) |
