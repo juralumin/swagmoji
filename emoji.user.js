@@ -63,7 +63,7 @@ window.addEventListener('load', function () {
         });
     })
     .catch(error => {
-        App.alert("error fetching custom emoji data. Try reloading Pxls. -swagemoji")
+        App.alert("Error fetching custom emoji data. Try reloading Pxls. If you have chat disabled, this is normal. -swagmoji")
         console.error("error fetching emoji data!", error);  // log any undesired happenings
     });
 });
