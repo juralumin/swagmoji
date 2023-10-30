@@ -146,8 +146,10 @@ a set of significantly more interesting emojis for pxls.space.
 | `:imdead:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/imdead.png) |
 | `:incredible:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/incredible.png) |
 | `:ipadconfiscated:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/ipadconfiscated.png) |
+| `:jendie:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenDie.png) |
 | `:jenfear:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenFear.png) |
 | `:jenflush:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenflush.png) |
+| `:jenhehe:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenHehe.png) |
 | `:jenokay:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenokay.png) |
 | `:jenpain:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenpain.png) |
 | `:jenpeace:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenPeace.png) |
@@ -156,8 +158,8 @@ a set of significantly more interesting emojis for pxls.space.
 | `:jenteehee:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenTeehee.png) |
 | `:jenthink:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenThink.png) |
 | `:jentired:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jentired.png) |
-| `:jenugh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenugh.png) |
 | `:jenwhat:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenWhat.png) |
+| `:jenxd:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenXD.png) |
 | `:jermasus:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jermasus.png) |
 | `:jiglypuf:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jiglypuf.png) |
 | `:joecool:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/joecool.png) |
