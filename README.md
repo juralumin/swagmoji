@@ -155,7 +155,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:jenpeace:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenPeace.png) |
 | `:jenscowl:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenScowl.png) |
 | `:jenstare:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenstare.png) |
-| `:jenteehee:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenTeehee.png) 
+| `:jenteehee:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenTeehee.png) |
 | `:jenthink:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenThink.png) |
 | `:jentired:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jentired.png) |
 | `:jenwhat:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/jenWhat.png) |
