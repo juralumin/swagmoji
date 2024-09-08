@@ -87,6 +87,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:excellence:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/excellence.png) |
 | `:excuseme:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/excuseme.png) |
 | `:existing:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/existing.gif) |
+| `:FapuHigh:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/FapuHigh.png) |
 | `:favouritenumber:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/favouritenumber.png) |
 | `:fear:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/fear.png) |
 | `:feelsbanman:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/feelsbanman.gif) |
@@ -315,6 +316,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:wowwiieee:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wowwiieee.png) |
 | `:wwwwhat:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wwwwhat.png) |
 | `:wwwwwwwwww:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wwwwwwwwww.png) |
+| `:WYSI:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/WYSI.gif) |
 | `:xtodoubt:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/xtodoubt.png) |
 | `:yesgd:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/yesgd.png) |
 | `:yikes:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/yikes.png) |
