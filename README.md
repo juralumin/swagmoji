@@ -316,7 +316,7 @@ a set of significantly more interesting emojis for pxls.space.
 | `:wowwiieee:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wowwiieee.png) |
 | `:wwwwhat:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wwwwhat.png) |
 | `:wwwwwwwwww:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wwwwwwwwww.png) |
-| `:WYSI:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/WYSI.gif) |
+| `:WYSI:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/wysi.gif) |
 | `:xtodoubt:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/xtodoubt.png) |
 | `:yesgd:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/yesgd.png) |
 | `:yikes:` | ![emoji](https://raw.githubusercontent.com/juralumin/swagmoji/main/assets/yikes.png) |
