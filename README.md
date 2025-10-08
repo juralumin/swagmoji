@@ -2,6 +2,8 @@
 
 a set of significantly more interesting emojis for pxls.space.
 
+this sucks. why are you still here? give me your emojis NOW.
+
 
 
 
