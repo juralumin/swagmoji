@@ -19,8 +19,8 @@ this sucks. why are you still here? give me your emojis NOW.
 
 ## OTHER STUFF
 
-- people that don't have swagmoji active won't see your custom emojis.
-- you can submit emoji by sending @jensyndrome or @nizrab a message on discord. or make a pull request yourself if you know how.
+- people that don't have swagmoji active won't see your custom emojis. please laugh at them.
+- you can submit emoji via carrier pigeon.
 - mr nizrab made the script. say thanks or else
 - for some reason emojis aren't case sensitive. yeah
 
